@@ -1,2 +1,2 @@
-# 1 Serializer하기 모델 만들기(https://github.com/ParkJiSu28/DRF_tutorial/commit/1351c7ebb63ca57a5bd31dd96370ad624dd6ea70)
+# 1 [Serializer하기 모델 만들기](https://github.com/ParkJiSu28/DRF_tutorial/commit/1351c7ebb63ca57a5bd31dd96370ad624dd6ea70)
 # 2 ModelSerializers로 refactoring하기 
