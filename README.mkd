@@ -3,7 +3,7 @@
 # 3 [request&response tutorial 2부](https://github.com/ParkJiSu28/DRF_tutorial/commit/2eaaa1f0c5f28be7c8670e7e2a2014954bb872c8)
 # 4 [Class based view -APIView 3부](https://github.com/ParkJiSu28/DRF_tutorial/commit/32a886a526872d3f67bff1e28f7df42d5b8c9ec0)
 # 5 [Class based view -GenericView 3부](https://github.com/ParkJiSu28/DRF_tutorial/commit/451e62f0a0110aaddf8f5464ba9cc75a34b694ad)
-
+# 6 [Authentication - 4부 ](https://github.com/ParkJiSu28/DRF_tutorial/commit/b1e8e71ef28c837dfaa7ac348437ace4e519bb28)
 
 
 
