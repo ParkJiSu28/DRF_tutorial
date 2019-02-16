@@ -2,7 +2,7 @@
 # 2 [ModelSerializers로 refactoring하기 1부](https://github.com/ParkJiSu28/DRF_tutorial/commit/c5401b5166b0a0914e023f1c1142d56f0d88f674): postman을 통해 Shell에서 만들었던 데이터를 PUT메소드를 통해 변경해보자.
 # 3 [request&response tutorial 2부](https://github.com/ParkJiSu28/DRF_tutorial/commit/2eaaa1f0c5f28be7c8670e7e2a2014954bb872c8)
 # 4 [Class based view -APIView 3부](https://github.com/ParkJiSu28/DRF_tutorial/commit/32a886a526872d3f67bff1e28f7df42d5b8c9ec0)
-
+# 5 [Class based view -GenericView 3부(https://github.com/ParkJiSu28/DRF_tutorial/commit/451e62f0a0110aaddf8f5464ba9cc75a34b694ad)
 
 
 
