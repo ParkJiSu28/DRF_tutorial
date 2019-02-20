@@ -5,7 +5,7 @@
 # 5 [Class based view -GenericView 3부](https://github.com/ParkJiSu28/DRF_tutorial/commit/451e62f0a0110aaddf8f5464ba9cc75a34b694ad)
 # 6 [Authentication - 4부 ](https://github.com/ParkJiSu28/DRF_tutorial/commit/b1e8e71ef28c837dfaa7ac348437ace4e519bb28)
 # 7 [API설정하기 - 5부](https://github.com/ParkJiSu28/DRF_tutorial/commit/a26d9da0cd12fce1fd89b8f644bc158278da931b)
-
+# 8 [ViewSet - 6부](https://github.com/ParkJiSu28/DRF_tutorial/commit/06a6948b1656e56ca885fca78c7c6675d010f303)
 
 # Django-rest-framework 공식 도큐먼트를 참고하여 작성
 (https://www.django-rest-framework.org)
