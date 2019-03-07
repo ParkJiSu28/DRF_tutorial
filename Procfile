@@ -1,1 +1,1 @@
-web: gunicorn DRF_tutorial.wsgi --log-file -
+web: gunicorn tutorial.wsgi --log-file -
